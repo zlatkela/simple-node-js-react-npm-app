@@ -1,0 +1,3 @@
+[submodule "submoduleTest"]
+	path = submoduleTest
+	url = /home/vagrant/Github/submoduleTest/
